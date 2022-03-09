@@ -1,4 +1,4 @@
-# *Advancing into Analytics*: Foundations for Marketing Analytics
+# *Advancing into Analytics*: Foundations of Finance Analytics
 
 ![Image](images/cover.png)
 
